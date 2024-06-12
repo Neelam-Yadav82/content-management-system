@@ -88,8 +88,10 @@ local_settings.py
 .env
 db.sqlite3
 /logs
-/speech_to_text_dir
+
 env/
 venv/
-media_files_dir/
+media/
+media/
+env/
 
