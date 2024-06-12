@@ -1,0 +1,18 @@
+# Django Credentials
+DEBUG=
+SECRET_KEY=
+ALLOWED_HOSTS=
+
+# Checks If Local Or Hostesd DB Exists, If Not Will Using Django Default DB.
+IS_DATABASE_EXISTS=
+
+# Database Configuration If Not Using Django Default DB.
+DB_ENGINE=
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB_PORT=
+
+# server configuration
+SERVER_TYPE = 
